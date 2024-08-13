@@ -299,3 +299,73 @@ header h1 {
     letter-spacing: 0.3px;
     text-align: center;
 }
+
+/*Banner 3 CSS*/
+.banner-3-bg {
+    background: black;
+    padding-bottom: 100px;
+}
+
+.banner-3 {
+    width: 90%;
+    height: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 18px;
+    background: rgb(34, 34, 34);
+}
+
+.banner-3-left {
+    width: 440px;
+    margin-left: 55px;
+}
+
+.banner-3-left h3 {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 13px;
+}
+
+.banner-3-left p {
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: left;
+    margin-bottom: 34px;
+}
+
+.banner-3-left button {
+    width: 224px;
+    height: 54px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    border-radius: 42px;
+    border-width: 0;
+    background: rgb(230, 83, 60);
+}
+
+.banner-3-right{
+    width: 366px;
+    height: 312px;
+}
+
+.banner-3-right img {
+    width: 366px;
+    height: 312px;
+    border-radius: 18px;
+}
+
