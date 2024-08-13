@@ -925,4 +925,57 @@ footer {
         margin-left: 7px;
         width: 90%;
     }
+    .banner-4-text p {
+        padding-bottom: 20px;
+    }
+    .bmi-box {
+        margin-top: 20px;
+        display: block;
+        width: 100%;
+        align-items: center;
+        height: auto;
+        padding-bottom: 100px;
+    }
+    .bmi-box-left {
+        width: 100%;
+        padding-top: 10px;
+        margin-top: 0px;
+        margin-left: 40px;
+    }
+    .bmi-box-right {
+        width: 90%;
+        padding-top: 50px;
+        margin-top: 0px;
+        margin-left: 20px;
+    }
+    .bmi-form {
+        margin-left: 40px;
+    }
+    .bmi-box-right input[type="Height"], input[type="Age"], input[type="Sex"], input[type="Weight"] {
+        width: 110px;
+    }
+    .bmi-box-right input[type="Activity"] {
+        width: 255px;
+    }
+    .submit-button {
+        width: 280px;
+    }
+    .banner-5 {
+        display: block;
+        width: 100%;
+    }
+    .banner-5-textbox {
+        display: block;
+        width: 90%;
+    }
+    .banner-5-picsbox {
+        width: 90%;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .banner-5-gridbox {
+        grid-template-columns: 1fr;
+        padding: 0;
+        padding-top: 15px;
+    }
 }
