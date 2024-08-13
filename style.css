@@ -978,4 +978,48 @@ footer {
         padding: 0;
         padding-top: 15px;
     }
+    .banner-6 {
+        display: block;
+    }
+    .banner-6-textbox {
+        width: 90%;
+    }
+    .banner-6-textbox h2 {
+        padding-top: 50px;
+    }
+    .banner-6-picsbox {
+        width: 90%;
+        height: auto;
+        padding-bottom: 15px;
+    }
+    .banner-6-gridbox {
+        grid-template-columns: 1fr;
+        padding: 0;
+        padding-top: 15px;
+    }
+    .footer-box {
+        display: block;
+        width: 100%;
+        padding-top: 50px;
+    }
+    .footer-top {
+        display: block;
+        width: 100%;
+    }
+    .footer-left, .footer-middle, .footer-right {
+        width: 90%;
+        height: auto;
+    }
+    .footer-left p {
+        margin-bottom: 20px;
+    }
+    .footer-line {
+        padding-top: 30px;
+    }
+    .footer-bottom-text {
+        width: 90%;
+    }
+    .footer-bottom-text h3{
+        font-size: 15px;
+    }
 }
